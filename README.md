@@ -11,10 +11,10 @@
      I combine <b>Java (OOP)</b> architecture with <b>Flutter</b> UI to build professional-grade mobile applications.
   </p>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME-HERE/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-zaid-945b01337/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammadzaid51218@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.mzaid@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
 
