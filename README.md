@@ -8,8 +8,9 @@
     I combine <b>Java (OOP)</b> logic with <b>Flutter</b> UI to create real-world solutions.
   </p>
 
-  <a href="https://www.linkedin.com/in/muhammad-zaid-945b01337/">
+  <a href="https://www.linkedin.com/in/muhammad-zaid-945b01337/" target="_blank" > 
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+    
   </a>
 </div>
 
