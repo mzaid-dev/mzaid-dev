@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Zaid&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Turning%20Logic%20Into%20Mobile%20Solutions&descAlign=50&descAlignY=55" alt="Muhammad Zaid Banner" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2334D6&center=true&vCenter=true&width=435&lines=Flutter+App+Developer+%F0%9F%93%B1;Software+Engineering+Student+%F0%9F%8E%93;Java+%26+Python+backend+logic;Building+Scalable+Solutions..." alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2334D6&center=true&vCenter=true&width=600&lines=Flutter+App+Developer+%F0%9F%93%B1;Software+Engineering+Student+%F0%9F%8E%93;Java+%26+Python+backend+logic;Building+Scalable+Solutions..." alt="Typing Animation" />
   </a>
 
   <p>
