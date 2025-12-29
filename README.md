@@ -46,3 +46,11 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=mzaid-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Zaid's Stats" />
 </div>
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzaid-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mzaid-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
+</p>
+
