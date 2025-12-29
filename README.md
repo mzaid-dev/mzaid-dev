@@ -54,3 +54,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mzaid-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzaid-dev)
