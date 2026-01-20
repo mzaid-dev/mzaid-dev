@@ -22,6 +22,16 @@
 
 <br>
 
+### 🛠️ Tech Stack & Arsenal
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,django,sqlite,supabase,git,postman,vscode&perline=10" />
+  </a>
+</div>
+
+<br>
+
+
 ### 🚀 What I'm Building
 | Project | Tech Stack | Status | Repository |
 | :--- | :--- | :--- | :--- |
@@ -29,14 +39,6 @@
 | **💰 Expense Tracker** | `Flutter` `BLoC` `SQLite` | ![Status](https://img.shields.io/badge/Active-green?style=flat-square) | [Link](#) |
 | **🔐 Smart Notes API** | `Django` `DRF` `PostgreSQL` | ![Status](https://img.shields.io/badge/Completed-blue?style=flat-square) | [Link](https://github.com/mzaid-dev/smart-notes-backend) |
 
-<br>
-
-### 🛠️ Tech Stack & Arsenal
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,django,sqlite,supabase,git,postman,vscode&perline=10" />
-  </a>
-</div>
 
 <br>
 
